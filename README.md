@@ -1,2 +1,2 @@
-# moirai
-Moirai is a device placement algorithm.
+# Moirai
+## Moirai is a device placement algorithm.
